@@ -5,5 +5,10 @@ body{
 }
 h1 {
     text-align: center;
-    color:crimson; 
+    color: whitesmoke;  
+}
+
+h2 {
+    text-align: center;
+    color: whitesmoke;
 }
