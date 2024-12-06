@@ -80,3 +80,19 @@ h2 {
         border-radius: 25%;
     }
 
+    .code img{
+        width: 30%;
+        margin: 10px;
+        padding: 20px 10px;
+        background: white; 
+        border-radius: 25%;
+    }
+
+    .code{
+        width: 30%;
+        margin: 10px;
+        padding: 20px 10px;
+        background: white; 
+        border-radius: 25%;
+    }
+
